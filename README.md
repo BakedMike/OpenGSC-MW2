@@ -59,5 +59,5 @@ Loaded scripts start on the next script load (map load or `fast_restart`). Unloa
 ## Credits
 
 - **[OpenRTM](https://github.com/Avexiis/OpenRTM)** for the Java GSC injection logic that was ported to C++ here.
-- **cOzInABox[cOz])** for xkelib.
+- **cOzInABox[cOz]** for xkelib.
 - **Xx jAmes t xX** for the Detour class.
