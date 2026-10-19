@@ -47,7 +47,7 @@ Loaded scripts start on the next script load (map load or `fast_restart`). Unloa
 ## Building
 
 - Xbox 360 SDK (XDK) with Visual Studio 2010
-- [xkelib](xkelib) (included in this repository)
+- [xkelib](https://github.com/cOzInABox/xkelib) (included in this repository)
 - Open the solution, build `module` in Release, and sign/deploy the resulting xex for your console setup.
 
 ## Notes
